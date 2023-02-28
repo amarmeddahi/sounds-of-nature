@@ -5,8 +5,9 @@ Welcome to the Sounds of Nature Github repository! This project aims to use supe
   <img src="assets/welcome.gif" />
 </p>
 
-## Overview
+## Repository description
 
+This repository provides a lot of code and data to handle different project tasks. You can find codes to process audio data, codes to classify data and so on. The following describes the purpose of the different files in the repository:
  - ./code/
 	 - [create_indices_dataset.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/create_indices_dataset.ipynb "create_indices_dataset.ipynb") -> creates a representation of over 60 acoustic indices from raw audio data
  - ./data/
