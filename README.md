@@ -16,6 +16,7 @@ This repository provides a lot of code and data to handle different project task
   - [mlp_classification.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/mlp_classification.ipynb "mlp_classification.ipynb") -> classification of acoustic landscapes using multilayer perceptron
   - [stats_classification.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/stats_classification.ipynb "stats_classification.ipynb") -> classification of acoustic landscapes using statistical machine learning
   - [stats_regression.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/stats_regression.ipynb "stats_regression.ipynb") -> regression of acoustic features using statistical machine learning
+  - [mlp_regression.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/mlp_regression.ipynb "mlp_regression.ipynb") -> regression of acoustic features using multilayer perceptron
 - ./data/
   - [indices.csv](https://github.com/amarmeddahi/sounds-of-nature/blob/main/data/indices.csv "indices.csv") -> representation by acoustic indices of more than 60 hours of labeled audio for 4 classes
   - [latent_space_XYZ_ABC.csv](https://github.com/amarmeddahi/sounds-of-nature/blob/main/data/latent_space_mel128_512.csv "latent_space_mel128_512.csv") -> representation by latent space (dim=ABC) using XYZ spectrogram of more than 60 hours of labeled audio for 4 classes
