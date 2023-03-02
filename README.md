@@ -23,6 +23,8 @@ This repository provides a lot of code and data to handle different project task
   - [regression_variables.txt](https://github.com/amarmeddahi/sounds-of-nature/blob/main/data/regression_variables.txt "regression_variables.txt") -> explain the significance of the different variables in [regression.csv](https://github.com/amarmeddahi/sounds-of-nature/blob/main/data/regression.csv "regression.csv")
   - [reg-ind_joint_table.csv](https://github.com/amarmeddahi/sounds-of-nature/blob/main/data/reg-ind_joint_table.csv "reg-ind_joint_table.csv") -> joint table to easily predict the regression variables
 
+## Getting Started
+
 ## References
 
 Sounds of Nature communicates with and/or references the following:
