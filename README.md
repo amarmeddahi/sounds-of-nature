@@ -1,4 +1,4 @@
-# Sounds of Nature (in progress)
+# Sounds of Nature
 
 ## About The Project
 
