@@ -19,7 +19,7 @@ Welcome to the Sounds of Nature Github repository! This project aims to use supe
 
 This repository provides a lot of code and data to handle different project tasks. You can find codes to process audio data, codes to classify data and so on. The following describes the purpose of the different files in the repository:
 
-- ./code/
+- [code](https://github.com/amarmeddahi/sounds-of-nature/tree/main/code "code")
   - [create_indices_dataset.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/create_indices_dataset.ipynb "create_indices_dataset.ipynb") -> creates a representation of over 60 acoustic indices from raw audio data
   - [create_latent_dataset.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/create_latent_dataset.ipynb "create_latent_dataset.ipynb") -> creates a latent representation of various dimensions from raw audio data
   - [mlp_classification.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/mlp_classification.ipynb "mlp_classification.ipynb") -> classification of acoustic landscapes using multilayer perceptron
@@ -27,7 +27,7 @@ This repository provides a lot of code and data to handle different project task
   - [stats_regression.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/stats_regression.ipynb "stats_regression.ipynb") -> regression of acoustic features using statistical machine learning
   - [mlp_regression.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/mlp_regression.ipynb "mlp_regression.ipynb") -> regression of acoustic features using multilayer perceptron
   - [species_classification.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/species_classification.ipynb "species_classification.ipynb") -> classification of more than 60 species of birds based on their sounds
-- ./data/
+- [data](https://github.com/amarmeddahi/sounds-of-nature/tree/main/data "data")
   - [indices.csv](https://github.com/amarmeddahi/sounds-of-nature/blob/main/data/indices.csv "indices.csv") -> representation by acoustic indices of more than 60 hours of labeled audio for 4 classes
   - [latent_space_XYZ_ABC.csv](https://github.com/amarmeddahi/sounds-of-nature/blob/main/data/latent_space_mel128_512.csv "latent_space_mel128_512.csv") -> representation by latent space (dim=ABC) using XYZ spectrogram of more than 60 hours of labeled audio for 4 classes
   - [regression.csv](https://github.com/amarmeddahi/sounds-of-nature/blob/main/data/regression.csv "regression.csv") -> regression data for the prediction of environmental variables
