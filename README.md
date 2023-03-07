@@ -83,6 +83,8 @@ To estimate biodiversity data, follow these steps:
 2. Use the [mlp_regression.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/mlp_regression.ipynb "mlp_regression.ipynb") or [stats_regression.ipynb](https://github.com/amarmeddahi/sounds-of-nature/blob/main/code/stats_regression.ipynb "stats_regression.ipynb") wether you want to predict with neural nets or statistical machine learning.
    * Specify the path to your data.
 
+[Feature Details](https://github.com/amarmeddahi/sounds-of-nature/blob/main/assets/regression_features.txt) - This document provides a detailed explanation of the features used in the regression task.
+
 #### Bird Species Recognition
 
 This uses spectograms to classify bird species. To get started, follow these steps:
