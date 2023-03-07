@@ -1,0 +1,17 @@
+﻿TFV_G11_GROUP = dominant species (quali 3 modalities)
+LITH1_1 = lithological diversity
+LITH2_2 = proportion of quaternary deposits
+LITH4_2 = proportion of crystalline rocks
+DEM1_1 = average altitude
+DEM2_4 = average slope
+DEM4_1 = orientation NORTH: 0°, EAST: 90°, SOUTH: 180° and WEST: 270°.
+GEOM7_1 = to be checked
+CLIM1_3 = precipitation evolution (inverse)
+CLIM2_5 = average temperature evolution
+ANT1_1 = distance to a road
+ANT2_1 = distance to a trail
+ANT3_1 = distance to a ski run
+ANT_5_1 = distance to a building
+MUN1_1 = Population evolution of the municipality
+PROT3_2 = Distance of the parcel to a national nature reserve
+DIAC1_2 (% of colonized pixels), DIAC1_3 (% change in forest cover), DIAC4_1 (change in shape), DIAC5_1 (change in altitude)
