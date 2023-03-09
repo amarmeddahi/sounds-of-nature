@@ -13,7 +13,7 @@ Welcome to the Sounds of Nature Github repository! This project aims to use supe
 Here are some useful resources related to this project:
 
 * [Extended abstract](https://docs.google.com/document/d/186gmrj6DYE0ezmFN2C1-FuwIkbqe1W02XiS_HEMDdE4/edit?usp=share_link) - This document provides an in-depth overview of the project, including methodology, results, and conclusions. It's an essential resource for those interested in the details of our research.
-* Presentation slides - We created a set of slides summarizing the key aspects of our project. These slides are an excellent resource for those who want a quick and easy way to understand the project's main points.
+* [Presentation slides](https://docs.google.com/presentation/d/1gOhZ1y7yEcw4CYJFGzokNKopnkgIZHYBvke3DvMuxQM/edit?usp=share_link) - We created a set of slides summarizing the key aspects of our project. These slides are an excellent resource for those who want a quick and easy way to understand the project's main points.
 
 We hope these resources will be helpful to those interested in learning more about our project.
 
